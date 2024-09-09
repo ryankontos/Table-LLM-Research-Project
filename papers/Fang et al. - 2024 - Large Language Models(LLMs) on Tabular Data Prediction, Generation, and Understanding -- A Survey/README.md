@@ -24,7 +24,7 @@ Despite their strengths, LLMs face inherent limitations when working with tabula
 To mitigate these challenges, researchers have explored several advanced techniques:
 - **Text-Based Serialisation**: Converting tables into human-readable text or structured formats (like Markdown or LaTeX) improves LLM processing. Markdown format is particularly popular, though LaTeX serialisation has shown promise for handling complex tables more effectively.
   
-- **Embedding-Based Approaches**: Fine-tuning models like BERT and TAPAS (table-specific PLMs) to better capture the semantic relationships between tabular data elements.
+- **Embedding-Based Approaches**: Fine-tuning models like BERT to better capture the semantic relationships between tabular data elements.
 
 - **Prompt Engineering**: Introducing context-specific instructions or in-context learning examples within prompts has improved LLM performance for table understanding and reasoning tasks.
 

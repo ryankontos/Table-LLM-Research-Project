@@ -1,5 +1,9 @@
 # LLM-Table-Understanding-Research
 
+## Current Research Question
+
+What techniques can effectively enhance a large language model-based conversational agent’s ability to accurately interpret and respond to documents containing both textual and tabular data?
+
 ## Introduction
 
 This repository contains the research and development work for my thesis project titled **"Can Large Language Models Understand Tables Embedded in Text?"** The project investigates the capability of modern Large Language Models (LLMs) like GPT-4, LLaMA, and PaLM to comprehend and effectively process tables that are integrated within textual documents.
