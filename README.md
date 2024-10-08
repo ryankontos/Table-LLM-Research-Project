@@ -1,5 +1,9 @@
 # LLM-Table-Understanding-Research
 
+## Thesis Project URL
+
+https://www.overleaf.com/read/hpyynjgnrcrn#b00ced
+
 ## Current Research Question
 
 What techniques can effectively enhance a large language model-based conversational agent’s ability to accurately interpret and respond to documents containing both textual and tabular data?
